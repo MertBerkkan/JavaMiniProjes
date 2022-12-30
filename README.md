@@ -1,0 +1,2 @@
+# JavaMiniProjes
+Java çalışmalarım
