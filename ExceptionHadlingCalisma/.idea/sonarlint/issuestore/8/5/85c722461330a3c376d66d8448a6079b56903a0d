@@ -1,0 +1,9 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áìä½
+Y
+java:S3518"CMake sure this expression can't be zero before doing this division.(ŠÙŒš
+K
+java:S1854"5Remove this useless assignment to local variable "b".(ŠÙŒš
+<
+java:S1481"&Remove this unused "b" local variable.(ŠÙŒš
+X	java:S125"<This block of commented-out lines of code should be removed.(“âæ8ÊÖ­§Ü0

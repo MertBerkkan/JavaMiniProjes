@@ -1,0 +1,10 @@
+
+>
+java:S1643"Use a StringBuilder instead.(™í’øÿÿÿÿ8ïââ£İ0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÏÁ™Íÿÿÿÿÿ
+\
+java:S2259"AA "NullPointerException" could be thrown; "fis" is nullable here.(ß¶­†ÿÿÿÿÿ
+E
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+Q
+java:S1128"5Remove this unused import 'java.io.FileOutputStream'.(˜«ªg8¤ãâ£İ0
